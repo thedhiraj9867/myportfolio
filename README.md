@@ -3,7 +3,6 @@
 Welcome to my personal developer portfolio website 🚀  
 This portfolio showcases my **skills, projects, and experience** in **Frontend Development, MERN stack, and Data Analytics**.  
 
-Live Demo 👉 [https://myportfolio.netlify.app](https://myportfolio.netlify.app) *(replace with your actual deployed link)*
 
 ---
 
